@@ -1,5 +1,8 @@
 # Nuxt 3 Minimal Starter
 
+A project that shows you the 50 best restaurants around the world, and we single out the mention
+ Online tutor "Laith Harb"
+
 We recommend to look at the [documentation](https://v3.nuxtjs.org).
 
 ## Setup
